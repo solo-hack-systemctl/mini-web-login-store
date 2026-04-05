@@ -137,3 +137,11 @@ This project helped me get much more comfortable with authentication, session pr
 
 The biggest thing that stood out to me was how easy it was for the app to still “work” even when the logic was unsafe. Testing fake IDs, bad quantities, and direct route access showed me why every page needs its own validation.
 
+## Next Steps
+- Add role-based access control (Admin vs User)
+- Build admin dashboard for product management
+- Add password reset workflow
+- Implement CSRF protection
+- Improve UI styling with CSS
+- Add product search and filters
+- Add unit and integration tests
